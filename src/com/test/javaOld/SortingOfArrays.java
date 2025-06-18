@@ -1,6 +1,6 @@
 package com.test.javaOld;
 
-public class TestJavaOld {
+public class SortingOfArrays {
 
 	public static void main(String[] args) {
 		int[] arr = {5,12,8,45,9,66,3,7,23,100};
